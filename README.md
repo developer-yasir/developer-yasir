@@ -1,7 +1,5 @@
-💡 Why Choose Me?
-- Work Experience: 5 years
-- Reliable Partner: Built on a foundation of loyalty and trust.
-- I care about your project the same as you and even more.
+I am a React Developer proficient in Designing and developing Websites. 
+Basic Skilled in JavaScript, React JS, WordPress and Tailwind CSS.
 
 🌐 SKILLS:
 ✅ HTML/CSS, JavaScript, ReactJS, JQuery
