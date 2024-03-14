@@ -1,15 +1,8 @@
 I am a React Developer proficient in Designing and developing Websites. 
-Basic Skilled in JavaScript, React JS, WordPress and Tailwind CSS.
 
-🌐 SKILLS:
-✅ HTML/CSS, JavaScript, ReactJS, JQuery
-✅ Mobile-first, Flexbox, CSS Grid, Media Queries, Animations
-✅ TailwindCSS, Bootstrap, Framer Motion, Webpack, Git, SVG
-✅ Team Leading, Quality Control
+As a Frontend Web  Developer and a React Developer, I craft seamless digital experiences with a focus on UI/UX design. I have a strong grip on HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React JS, and WordPress to produce responsive websites and web apps for various purposes and audiences.
 
-🔧 Crafting with Excellence:
-✅ My workflow revolves around clean, readable, well refactored and modular code. I specialize in crafting intricate UI Kits that are not only complex but also incredibly reusable, saving you time and resources both now and in the future.
-✅ I offer expertise in performance optimization, lazy loading, API integration, form handling and validation, error management, responsive design and more.
+During my Journey of learning Web Development. I have successfully converted PSD, XD, Figma, PDF, PNG, or JPG files into responsive web pages, using clean and minimal code.  I have also fixed responsive issues of any types of websites and ensured 100% satisfaction guarantee, unlimited revision, and W3C validation.
 
 <!---
 developer-yasir/developer-yasir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
