@@ -3,7 +3,7 @@
 # My Social 
 <a href="https://www.linkedin.com/in/developer-yasir/">![image](https://github.com/developer-yasir/developer-yasir/assets/146189016/d2d107c4-4f0b-4508-94cd-57cb0d1b97d4) </a>
 # My Stack: 
-HTML, CSS, Javascript, React JS
+HTML, CSS, Javascript, React JS, Tailwind CSS
 
 # About Me 
 "I am a proficient React Developer, specialized in designing and developing websites with a focus on UI/UX design. My expertise lies in HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React JS, and WordPress, which I use to create responsive websites and web applications for various purposes and audiences.
