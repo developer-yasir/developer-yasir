@@ -2,9 +2,6 @@
 
 # My Social 
 <a href="https://www.linkedin.com/in/developer-yasir/">![image](https://github.com/developer-yasir/developer-yasir/assets/146189016/d2d107c4-4f0b-4508-94cd-57cb0d1b97d4) </a> 
-<h2> Portfolio</h2>
-<a href="https://yasirraees.thsite.top/">Portfolio</a> 
-
 # My Stack  
 React JS, Node JS, Express JS, MongoDB,  HTML, CSS, Javascript, Tailwind CSS
 
