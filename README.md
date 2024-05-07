@@ -6,7 +6,12 @@
 React JS, Node JS, Express JS, MongoDB,  HTML, CSS, Javascript, Tailwind CSS
 
 # About Me 
-MERN Stack Developer with a strong foundation in React.js, Node.js, Express.js, and MongoDB. Adept at building both engaging user interfaces and robust backend systems. Excited to join a team where I can push my boundaries and learn from the best.
+I'm a Software Engineer having about one year of experience as a MERN Stack Developer
+
+Making Restful APIs with Node JS and MongoDB is one of my favorite tasks but I can also work on both (Front-end & back-end) sides by using the MERN stack.
+I can Secure your Node JS App with authentication and authorization by using JSON Web Token and hashing your passwords.
+If you are looking for a JavaScript (React JS or NODE JS) developer to get quality work then feel free to contact me.
+Thanks.
 <!---
 developer-yasir/developer-yasir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
