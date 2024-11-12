@@ -3,15 +3,12 @@
 # My Social 
 <a href="https://www.linkedin.com/in/developer-yasir/">![image](https://github.com/developer-yasir/developer-yasir/assets/146189016/d2d107c4-4f0b-4508-94cd-57cb0d1b97d4) </a> 
 # My Stack  
-React JS, Node JS, Express JS, MongoDB,  HTML, CSS, Javascript, Tailwind CSS
+HTML, CSS, Javascript, Bootstrap, Jquery, PHP, MySQL,  Tailwind CSS
 
 # About Me 
-I'm a Software Engineer having about one year of experience as a MERN Stack Developer
+I'm a Software Engineer having about one year of experience as a Full Stack Web Developer and Machine Learning Engineer.
 
-Making Restful APIs with Node JS and MongoDB is one of my favorite tasks but I can also work on both (Front-end & back-end) sides by using the MERN stack.
-I can Secure your Node JS App with authentication and authorization by using JSON Web Token and hashing your passwords.
-If you are looking for a JavaScript (React JS or NODE JS) developer to get quality work then feel free to contact me.
-Thanks.
+With 1 year of hands-on experience as a WordPress Developer and Machine Learning Engineer, I bring a unique skill set that combines front-end development with advanced data science techniques. My proficiency in WordPress development includes customizing themes, developing plugins, and optimizing website performance. On the machine learning side, I have experience in data preprocessing, model training, and deployment using Python and related frameworks. I am particularly interested in applying machine learning algorithms to improve user personalization, automate content management, and enhance website analytics. My approach is grounded in rigorous analysis and a commitment to delivering high-quality, scalable solutions.
 <!---
 developer-yasir/developer-yasir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
