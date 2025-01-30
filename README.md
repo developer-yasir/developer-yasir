@@ -1,15 +1,25 @@
-[![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-yasir)](https://github.com/anuraghazra/github-readme-stats)
+[![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-yasir&cache_seconds=86400)](https://github.com/developer-yasir)
 
-# My Social 
-<a href="https://www.linkedin.com/in/developer-yasir/">![image](https://github.com/developer-yasir/developer-yasir/assets/146189016/d2d107c4-4f0b-4508-94cd-57cb0d1b97d4) </a> 
-# My Stack  
-HTML, CSS, Javascript, Bootstrap, Jquery, PHP, MySQL,  Tailwind CSS
+# My Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/developer-yasir/)
 
-# About Me 
-I'm a Software Engineer having about one year of experience as a Full Stack Web Developer and Machine Learning Engineer.
+# My Tech Stack  
+**Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, jQuery  
+**Backend:** PHP, Node.js, Express.js  
+**Database:** MySQL, Supabase  
+**Other:** WordPress (Theme & Plugin Development), Machine Learning (Python, TensorFlow, Scikit-learn)
 
-With 1 year of hands-on experience as a WordPress Developer and Machine Learning Engineer, I bring a unique skill set that combines front-end development with advanced data science techniques. My proficiency in WordPress development includes customizing themes, developing plugins, and optimizing website performance. On the machine learning side, I have experience in data preprocessing, model training, and deployment using Python and related frameworks. I am particularly interested in applying machine learning algorithms to improve user personalization, automate content management, and enhance website analytics. My approach is grounded in rigorous analysis and a commitment to delivering high-quality, scalable solutions.
-<!---
-developer-yasir/developer-yasir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me  
+I am a **Software Engineer** with over **one year of experience** in **Full Stack Web Development** and **Machine Learning**. My expertise spans across multiple domains, allowing me to create dynamic, efficient, and scalable web applications.  
+
+### Web Development Experience:  
+- Expertise in **React, JavaScript, and PHP** for building interactive UIs and scalable applications.
+- **WordPress Plugin & Theme Development**, ensuring optimized and customized solutions.
+- Database management with **MySQL and Supabase** to handle structured data efficiently.
+
+### Machine Learning Experience:  
+- Skilled in **Python, TensorFlow, and Scikit-learn** for developing AI-driven solutions.
+- Experience in **data preprocessing, model training, and deployment** to enhance user personalization.
+- Applying machine learning for **automated content management and website analytics**.
+
+I am passionate about technology, always eager to learn new skills, and committed to delivering high-quality, scalable solutions. 🚀
