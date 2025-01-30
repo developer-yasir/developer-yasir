@@ -1,7 +1,7 @@
 # 🚀 Yasir Raees – Frontend Developer & React Specialist  
 ![Profile Views](https://komarev.com/ghpvc/?username=developer-yasir&color=blue&style=flat)  
 
-[![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-yasir&cache_seconds=86400)](https://github.com/developer-yasir)  
+[![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-yasir&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/developer-yasir)  
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 ## 🌟 **About Me**  
-👨‍💻 **Yasir Raees** – A passionate **Frontend Developer** and **React Specialist**. I craft high-performance, interactive web applications and focus on building **seamless user experiences** with modern frontend technologies.
+Hi, I'm **Yasir Raees** – a **Frontend Developer** and **React Specialist**. Over the years, I’ve developed websites that deliver **high performance** and **seamless UX**. Currently, I’m mastering **Next.js** and **TypeScript** to build even more powerful and scalable web applications. I believe in **clean code** and **continuous learning**, and my goal is to craft web experiences that users will love!  
 
 ### 📌 **Currently Learning**:  
 - **Advanced React (Next.js)**  
@@ -43,8 +43,14 @@
 ---
 
 ## 💼 **Experience**  
-**Orkans** | **Web Development** – 6 Months  
-**Pie Solutions Pvt Ltd** | **Full Stack Developer** – 1 Year  
+
+- **Orkans** | **Web Development** – 6 Months  
+  - Built high-performance websites.
+  - Collaborated closely with backend developers to integrate APIs.
+
+- **Pie Solutions Pvt Ltd** | **Full Stack Developer** – 1 Year  
+  - Developed dynamic web applications using React, Express, and MongoDB.
+  - Maintained server-side logic and integrated third-party APIs.
 
 ---
 
@@ -63,8 +69,9 @@
 
 ---
 
-## 📊 **Most Used Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-yasir&layout=compact&theme=radical)  
+## 📊 **Most Used Languages**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-yasir&layout=compact&theme=highcontrast)
 
 ---
 
