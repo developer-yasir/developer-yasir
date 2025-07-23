@@ -1,101 +1,139 @@
-# 🚀 Yasir Raees – Frontend Developer & React Specialist  
-![Profile Views](https://komarev.com/ghpvc/?username=developer-yasir&color=blue&style=flat)  
+# 👨‍💻 Yasir Raees – MERN Stack & React Full‑Stack Developer
 
-[![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-yasir&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/developer-yasir)  
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=developer-yasir&label=🔥%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+ </p>
 
-## 💻 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/developer-yasir/)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://www.yasirraees.com)  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/developer-yasir)
 
----
-
-## 🎨 **My Tech Stack**
-
-### 💻 **Frontend Skills**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) !
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+There!+👋;I+am+Yasir+Raees;MERN+Stack+Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
 
 
 
-### 🔧 **Other Skills**  
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+<p align="center">
+  <a href="https://github.com/developer-yasir">
+    <img src="https://github-readme-stats.vercel.app/api?username=developer-yasir&show_icons=true&count_private=true&theme=highcontrast" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-yasir&theme=highcontrast" />
+</p>
 
----
-
-## 🌟 **About Me**  
-Hi, I'm **Yasir Raees** – a **Frontend Developer** and **React Specialist**. Over the years, I’ve developed websites that deliver **high performance** and **seamless UX**. Currently, I’m mastering **Next.js** and **TypeScript** to build even more powerful and scalable web applications. I believe in **clean code** and **continuous learning**, and my goal is to craft web experiences that users will love!  
-
-### 📌 **Currently Learning**:  
-- **Advanced React (Next.js)**  
-- **TypeScript**  
-- **Performance Optimization**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-yasir&theme=react-dark&area=true" />
+</p>
 
 ---
 
-## 💼 **Experience**  
+## 🌐 Connect with Me
 
-- **Orkans** | **Web Development** – 6 Months  
-  - Built high-performance websites.
-  - Collaborated closely with backend developers to integrate APIs.
-
-- **Pie Solutions Pvt Ltd** | **Full Stack Developer** – 1 Year  
-  - Developed dynamic web applications using React, Express, and MongoDB.
-  - Maintained server-side logic and integrated third-party APIs.
-
----
-
-## 🎓 **Education**  
-**BS in Computer Science (2019-2023)** – Hajvery University, Lahore  
-
----
-
-## 🚀 **Featured Projects**  
-
-- **[Manchester Banners](https://manchesterbanners.co.uk)** – Custom WordPress theme with WooCommerce integration.  
-- **[Social Media Dashboard](https://stellular-pixie-a0846f.netlify.app)** – Real-time React-based social platform with authentication.  
-- **[Food Delivery App](https://profound-baklava-68f683.netlify.app)** – Dynamic React-based food ordering system.  
-- **[Efound](https://efound.co.uk)** – Local service connection platform with WordPress.  
-- **[Peckham Banners](https://peckhambanners.co.uk)** – WooCommerce-based banner creation platform.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/developer-yasir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.yasirraees.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23008080.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/developer-yasir" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:yasirraeesdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%2300C896.svg?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 **Most Used Languages**
+## 🧰 Tech I Use Daily
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-yasir&layout=compact&theme=highcontrast)
-
----
-
-## 📅 **GitHub Activity Graph**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=developer-yasir&theme=react-dark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,redux,git,github,vscode,docker" />
+</p>
 
 ---
 
-## 🎨 **Design & Layout Enhancements**  
+## 💼 About Me
 
-### 🚀 **Animated GIF Introduction**  
-![Intro GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+I’m **Yasir Raees**, a frontend-focused full-stack developer with deep expertise in **React.js** and the **MERN stack**.  
+I specialize in building scalable, high-performance web applications using modern technologies.
 
----
-
-## 🤝 **Connect with Me**  
-- 📧 **Email**: yasirminhas295@gmail.com  
-- 💼 **LinkedIn**: [Connect](https://www.linkedin.com/in/developer-yasir/)  
-- 📌 **Open to Work**: Looking for React & Frontend Development projects.
-
----
-
-## 🔥 **Fun with Tech**  
-### 🌍 **Explore More**  
-- 🔗 **GitHub Projects**: [GitHub](https://github.com/developer-yasir)  
-- 💼 **My Portfolio**: [Visit Portfolio](https://www.yasirraees.com)
+### ⚡ Quick Facts
+- 🧠 MERN Stack Developer
+- 🔍 Clean Code & Component-Driven Architecture
+- 🚀 Passionate about performance optimization
+- 🔧 Always learning new tools and frameworks
 
 ---
 
-## ✨ **Fun Facts**  
-- I am a **React Enthusiast** and a huge **JavaScript Fan**.  
-- I believe in **Clean Code** and **Continuous Learning**.  
-- When not coding, I’m either **listening to music** or **exploring new tech**!  
+## 🚀 Featured Projects
+
+<div align="center">
+  
+| Project | Tech Stack | Live Demo |
+|--------|------------|------------|
+| 🧾 **Inventory Dashboard** | `MERN`, `Tailwind`, `Chart.js`, `JWT` | [🌐 Live](https://your-inventory-app.netlify.app) |
+| 🍔 **Food Delivery App** | `React`, `Node.js`, `MongoDB`, `Redux` | [🌐 Demo](https://profound-baklava-68f683.netlify.app) |
+| 💬 **Social Media Dashboard** | `React`, `Firebase Auth`, `Hooks`, `Tailwind` | [🌐 View](https://stellular-pixie-a0846f.netlify.app) |
+| 🛍 **Peckham Banners E‑Store** | `WooCommerce`, `WordPress`, `Plugins`, `Stripe` | [🌐 Visit](https://peckhambanners.co.uk) |
+
+</div>
 
 ---
+
+> 🧠 **Note:** Add or update project links above as you deploy new ones from your GitHub.
+
+---
+
+## 📌 Currently Learning
+- 🧠 **Advanced React (Next.js / App Router)**
+- 🛡 **TypeScript + Zod Validation**
+- 🚀 **Web Performance & Core Vitals**
+- 📱 **Progressive Web Apps (PWAs)**
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=developer-yasir&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer-yasir&theme=github_dark" />
+</p>
+
+---
+
+## 💡 Favorite Code Snippet
+
+```js
+const fetchData = async () => {
+  const res = await fetch('/api/products');
+  const data = await res.json();
+  setProducts(data);
+};
+```
+
+---
+
+## 🎯 GitHub Stats Breakdown
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-yasir&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Fun Facts About Me
+
+- 🎧 Lo-fi beats + coding = ❤️  
+- 🛠 Always building something new  
+- 📱 Obsessed with UI/UX perfection  
+- ☕ Runs on chai & creativity  
