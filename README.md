@@ -1,4 +1,4 @@
-# 👨‍💻 Yasir Raees – MERN Stack & React Full‑Stack Developer
+# 👨‍💻 Yasir Raees – MERN Stack Developer
 
 
 <p align="center">
@@ -57,7 +57,7 @@
 
 ## 💼 About Me
 
-I’m **Yasir Raees**, a frontend-focused full-stack developer with deep expertise in **React.js** and the **MERN stack**.  
+I’m **Yasir Raees**, a frontend-focused **Mern Stack Developer**.  
 I specialize in building scalable, high-performance web applications using modern technologies.
 
 ### ⚡ Quick Facts
