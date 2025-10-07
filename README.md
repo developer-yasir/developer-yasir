@@ -19,9 +19,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-yasir&theme=highcontrast" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-yasir&theme=react-dark&area=true" />
-</p>
+
 
 ---
 
