@@ -81,10 +81,6 @@ I specialize in building scalable, high-performance web applications using moder
 
 ---
 
-> 🧠 **Note:** Add or update project links above as you deploy new ones from your GitHub.
-
----
-
 ## 📌 Currently Learning
 - 🧠 **Advanced React (Next.js / App Router)**
 - 🛡 **TypeScript + Zod Validation**
